@@ -3,6 +3,7 @@
 - 🌱 I’m Juan
 - 🔭 I’m currently working on projects with php and java
 - ⚡ Aimlessly d:
+- 👯 Que bueno saludar y ser saludado jiji
 <!--
 **jsvcastillo/jsvcastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
